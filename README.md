@@ -73,9 +73,4 @@ This mobile application is designed as a digital market platform where users can
 |------------|----------------|----------|-------------|
 | <img src="https://github.com/user-attachments/assets/1dd5bf94-1783-4e15-b02e-aa1eaeeefa4d" width="200" /> | <img src="https://github.com/user-attachments/assets/9c533a52-775c-4641-9d77-326600ef24d9" width="200" /> | <img src="https://github.com/user-attachments/assets/39b7e0ce-ca11-4166-8af8-70c89859d719" width="200" /> | <img src="https://github.com/user-attachments/assets/ff75e0c5-61d1-4ede-8971-18a496894e15" width="200" /> |  
 
----
 
-## 📌 How to Run the Project  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/ShoppingAppProject.git
