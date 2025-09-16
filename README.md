@@ -48,13 +48,14 @@ This mobile application is designed as a digital market platform where users can
 - Dedicated **Hot Offers** area showcasing special deals and discounts.  
 
 <img width="400" height="1100" src="https://github.com/user-attachments/assets/ff75e0c5-61d1-4ede-8971-18a496894e15" />
-<img width="400" height="1100" src="https://github.com/user-attachments/assets/d2e510c1-a9fa-48bd-a762-a0a889da57a2" />
-<img width="400" height="1100" src="https://github.com/user-attachments/assets/51ea8eef-0152-4998-beb2-f8a28063bc28" />
+
 
 ---
 
 ### 🌍 Localization  
-- **Arabic language support** using [easy_localization](https://pub.dev/packages/easy_localization).  
+- **Arabic language support** using [easy_localization](https://pub.dev/packages/easy_localization).
+- <img width="400" height="1100" src="https://github.com/user-attachments/assets/d2e510c1-a9fa-48bd-a762-a0a889da57a2" />
+- <img width="400" height="1100" src="https://github.com/user-attachments/assets/51ea8eef-0152-4998-beb2-f8a28063bc28" />
 
 ---
 
